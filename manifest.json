@@ -3,7 +3,7 @@
   "short_name": "A7x",
   "theme_color": "#FFFFFF",
   "background_color": "#FFFFFF",
-  "start_url": "/",
+  "start_url": "https://art12-code.github.io/A7X",
   "display": "standalone",
   "orientation": "portrait",
   
