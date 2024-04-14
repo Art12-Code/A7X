@@ -1,7 +1,7 @@
 {
 "name": "Midas A7X",
 "short_name": "MA7X",
-"start_url": "https://art12-code.github.io/A7X/?utm_source=homescreen",
+"start_url": "http://www.ma7x.42web.io/?utm_source=homescreen",
 "display": "standalone",
 "description": "A description for your application",
 "lang": " en-us",
