@@ -1,7 +1,7 @@
 {
 "name": "Midas A7X",
 "short_name": "MA7X",
-"start_url": "www.ma7x.42web.io",
+"start_url": "http://ma7x.42web.io",
 "display": "standalone",
 "description": "A description for your application",
 "lang": " en-us",
