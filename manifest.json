@@ -6,7 +6,6 @@
   "start_url": "https://art12-code.github.io/A7X",
   "display": "standalone",
   "orientation": "portrait",
-  
 "icons": [
   {
     "src": "windows11/SmallTile.scale-100.png",
