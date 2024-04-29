@@ -3,7 +3,7 @@
   "short_name": "A7x",
   "theme_color": "#FFFFFF",
   "background_color": "#FFFFFF",
-  "start_url": "/A7X/a/index.html",
+  "start_url": "/A7X/index.html",
   "display": "standalone",
   "orientation": "portrait",
 "icons": [
